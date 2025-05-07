@@ -1,0 +1,16 @@
+PODS:
+  - EventTrackingLibrary (0.1.0)
+
+DEPENDENCIES:
+  - EventTrackingLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  EventTrackingLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EventTrackingLibrary: 90b0ca86ae7acce7d9575255568a8fb7e60d7696
+
+PODFILE CHECKSUM: a4a1bca290c9cca887a16b1e5947383e0edecf25
+
+COCOAPODS: 1.16.2

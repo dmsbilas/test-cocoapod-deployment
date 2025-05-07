@@ -1,0 +1,6 @@
+framework module EventTrackingLibrary {
+  umbrella header "EventTrackingLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
